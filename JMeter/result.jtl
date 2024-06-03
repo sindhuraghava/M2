@@ -1,0 +1,52 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1710908901710,1999,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,1994,0,1765
+1710908903721,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908903944,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908904937,299,Login Form,200,OK,Thread Group 1-1,text,true,,3942,147,1,1,https://v1.training-support.net/selenium/login-form,298,0,290
+1710908905237,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908905461,9,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,9,0,0
+1710908905471,9,ToDoList,200,OK,Thread Group 1-1,text,true,,3144,146,1,1,https://v1.training-support.net/selenium/todo-list,9,0,0
+1710908905481,7,Login Form,200,OK,Thread Group 1-1,text,true,,3942,147,1,1,https://v1.training-support.net/selenium/login-form,7,0,0
+1710908905489,8,ToDoList,200,OK,Thread Group 1-1,text,true,,3140,146,1,1,https://v1.training-support.net/selenium/todo-list,8,0,0
+1710908905497,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908905480,238,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,8673,413,1,1,null,238,2,0
+1710908905721,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908905945,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908906168,224,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,224,0,0
+1710908906399,11,Login Form,200,OK,Thread Group 1-1,text,true,,3938,147,1,1,https://v1.training-support.net/selenium/login-form,11,0,0
+1710908906411,8,ToDoList,200,OK,Thread Group 1-1,text,true,,3142,146,1,1,https://v1.training-support.net/selenium/todo-list,8,0,0
+1710908906420,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908906642,9,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,8,0,0
+1710908906651,9,ToDoList,200,OK,Thread Group 1-1,text,true,,3140,146,1,1,https://v1.training-support.net/selenium/todo-list,9,0,0
+1710908906661,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908906642,240,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,8671,413,1,1,null,239,1,0
+1710908906884,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908907107,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908907330,232,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,232,0,0
+1710908907564,8,ToDoList,200,OK,Thread Group 1-1,text,true,,3140,146,1,1,https://v1.training-support.net/selenium/todo-list,8,0,0
+1710908907573,221,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,221,0,0
+1710908907795,7,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,7,0,0
+1710908907803,8,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,8,0,0
+1710908907811,9,ToDoList,200,OK,Thread Group 1-1,text,true,,3142,146,1,1,https://v1.training-support.net/selenium/todo-list,9,0,0
+1710908907821,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,221,0,0
+1710908907803,239,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,8673,413,1,1,null,238,1,0
+1710908908043,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908908265,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908908487,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908908714,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,221,0,0
+1710908908936,16,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,16,0,0
+1710908908952,14,ToDoList,200,OK,Thread Group 1-1,text,true,,3140,146,1,1,https://v1.training-support.net/selenium/todo-list,14,0,0
+1710908908966,11,Login Form,200,OK,Thread Group 1-1,text,true,,3938,147,1,1,https://v1.training-support.net/selenium/login-form,11,0,0
+1710908908977,8,ToDoList,200,OK,Thread Group 1-1,text,true,,3140,146,1,1,https://v1.training-support.net/selenium/todo-list,8,0,0
+1710908908986,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908908966,241,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,8669,413,1,1,null,241,2,0
+1710908909210,223,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,223,0,0
+1710908909434,225,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,225,0,0
+1710908909662,225,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,225,0,0
+1710908909890,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908910118,8,ToDoList,200,OK,Thread Group 1-1,text,true,,3140,146,1,1,https://v1.training-support.net/selenium/todo-list,8,0,0
+1710908910127,10,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,10,0,0
+1710908910138,8,Login Form,200,OK,Thread Group 1-1,text,true,,3940,147,1,1,https://v1.training-support.net/selenium/login-form,8,0,0
+1710908910147,8,ToDoList,200,OK,Thread Group 1-1,text,true,,3142,146,1,1,https://v1.training-support.net/selenium/todo-list,8,0,0
+1710908910156,222,Home Page,200,OK,Thread Group 1-1,text,true,,1591,120,1,1,https://www.example.com/,222,0,0
+1710908910137,238,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,8673,413,1,1,null,238,4,0
